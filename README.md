@@ -9,7 +9,13 @@ __Test case__ — a set of test inputs, execution conditions, and expected resul
 + Preconditions  
 + Steps  
 + Expected result  
-+ Status (Passed/Failed/Blocked)  
++ Status (Passed/Failed/Blocked/Not tested)  
 + Priority (High/Medium/Low)  
 + Related bug  
 + Postconditions  
+
+#### :large_orange_diamond: Test case properties:  
++ Positive or negative  
++ Simple or complex  
++ Specific or general (degree of detail)  
++ Independent or related to each other  
